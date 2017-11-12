@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 120px;
+}
+
+.App-header {
+  background-color: #000;
+  height: 150px;
+  padding: 20px;
+  color: #D3B629;
+}
+
+.App-title {
+  font: 'Gotham Medium', Gotham, sans-serif;
+  font-size: medium;
+}
+
